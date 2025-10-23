@@ -2,7 +2,7 @@
 
 A user-friendly and efficient language translation tool developed using **Python** and **Streamlit**. This application allows users to input text, select source and target languages, and receive real-time translations using the **Google Translate API via Deep Translator**.
 
-> 🎓 Developed as Task 1 for the CodeAlpha Internship by [rk-srinath](https://github.com/rk-srinath)
+> 🎓 Developed as Task 1 for the CodeAlpha Internship by [Bala Sharvesh](https://github.com/BalaSharvesh1)
 
 ---
 
@@ -33,3 +33,4 @@ CodeAlpha_LanguageTranslationTool/
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 └── LICENSE # MIT License
+
